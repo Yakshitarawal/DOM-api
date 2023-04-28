@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.poster {
+  width: 30px;
+}
